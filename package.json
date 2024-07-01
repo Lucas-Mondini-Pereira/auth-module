@@ -1,6 +1,6 @@
 {
   "name": "@nuxtjs/auth-next",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "Authentication module for Nuxt.js",
   "repository": "Lucas-Mondini-Pereira/auth-module",
   "license": "MIT",
